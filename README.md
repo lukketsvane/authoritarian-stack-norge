@@ -4,7 +4,7 @@ Ein interaktiv visualisering av korleis kapital, media og stat heng saman i Nore
 
 ## Tech Stack
 
-- **Framework**: Next.js 16 (App Router)
+- **Framework**: Next.js 16.x (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: Radix UI + shadcn/ui

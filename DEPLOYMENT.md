@@ -30,7 +30,7 @@ This document provides a step-by-step guide to deploy the Maktkartet application
    - Click "Add New..." → "Project"
 
 2. **Import Repository**
-   - Select your GitHub repository: `lukketsvane/authoritarian-stack-norge`
+   - Select your GitHub repository
    - Click "Import"
 
 3. **Configure Project**
@@ -127,7 +127,7 @@ This document provides a step-by-step guide to deploy the Maktkartet application
 ## ✨ Current Deployment Status
 
 **Build Status**: ✅ Passing  
-**Framework**: Next.js 16.0.10  
+**Framework**: Next.js 16.x  
 **Node Version**: 18+ (recommended)  
 **Package Manager**: npm  
 
